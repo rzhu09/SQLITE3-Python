@@ -1,4 +1,4 @@
-#Developed a local database that utilized Python, SQLITE3 and Tkinter libraries
+# Developed a local database that utilized Python, SQLITE3 and Tkinter libraries
 
 Here is how the GUI looks like
 
